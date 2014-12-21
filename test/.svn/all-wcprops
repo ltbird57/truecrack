@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 21
+/svn/!svn/ver/57/test
+END
+ripemd160_aes.test.tc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/51/test/ripemd160_aes.test.tc
+END
+passwords.txt
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/51/test/passwords.txt
+END
+hidden_ripemd160_aes.test.hidden.tc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/52/test/hidden_ripemd160_aes.test.hidden.tc
+END
+ripemd160_serpent.test.tc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/53/test/ripemd160_serpent.test.tc
+END
+whirlpool_aes.test.tc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/51/test/whirlpool_aes.test.tc
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/57/test/README
+END
+ripemd160_twofish.test.tc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/53/test/ripemd160_twofish.test.tc
+END
+sha512_aes.test.tc
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/51/test/sha512_aes.test.tc
+END

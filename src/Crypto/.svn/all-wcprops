@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/53/src/Crypto
+END
+Aestab.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/1/src/Crypto/Aestab.c
+END
+Sha1.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/27/src/Crypto/Sha1.h
+END
+Sha2.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/27/src/Crypto/Sha2.h
+END
+Aes.c
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/1/src/Crypto/Aes.c
+END
+Rmd160.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/1/src/Crypto/Rmd160.c
+END
+Aes.h
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/1/src/Crypto/Aes.h
+END
+Rmd160.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/1/src/Crypto/Rmd160.h
+END
+Whirlpool.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/27/src/Crypto/Whirlpool.c
+END
+Serpent.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/53/src/Crypto/Serpent.c
+END
+CpuAes.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/1/src/Crypto/CpuAes.c
+END
+Aeskey.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/1/src/Crypto/Aeskey.c
+END
+Twofish.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/53/src/Crypto/Twofish.c
+END
+Whirlpool.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/27/src/Crypto/Whirlpool.h
+END
+CpuAes.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/1/src/Crypto/CpuAes.h
+END
+Serpent.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/53/src/Crypto/Serpent.h
+END
+Twofish.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/53/src/Crypto/Twofish.h
+END
+Aescrypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/1/src/Crypto/Aescrypt.c
+END
+Sha1.c
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/27/src/Crypto/Sha1.c
+END
+Sha2.c
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/27/src/Crypto/Sha2.c
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 20
+/svn/!svn/ver/57/src
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/57/src/Makefile.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/57/src/Makefile.am
+END

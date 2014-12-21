@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/svn/!svn/ver/55/src/Cuda
+END
+Rmd160.cu
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/53/src/Cuda/Rmd160.cu
+END
+Rmd160.original.cu
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/53/src/Cuda/Rmd160.original.cu
+END
+Xts.cu
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/55/src/Cuda/Xts.cu
+END
+Whirlpool.cu
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/53/src/Cuda/Whirlpool.cu
+END
+Crypto.cu
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/55/src/Cuda/Crypto.cu
+END
+Serpent.cu
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/55/src/Cuda/Serpent.cu
+END
+Aes.cuh
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/53/src/Cuda/Aes.cuh
+END
+Aeskey.cu
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/53/src/Cuda/Aeskey.cu
+END
+Rmd160.cuh
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/53/src/Cuda/Rmd160.cuh
+END
+Twofish.cu
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/53/src/Cuda/Twofish.cu
+END
+Rmd160.original.cuh
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/53/src/Cuda/Rmd160.original.cuh
+END
+Pkcs5.cu
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/53/src/Cuda/Pkcs5.cu
+END
+Xts.cuh
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/53/src/Cuda/Xts.cuh
+END
+Rmd160.alternative.cu
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/53/src/Cuda/Rmd160.alternative.cu
+END
+Whirlpool.cuh
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/53/src/Cuda/Whirlpool.cuh
+END
+Serpent.cuh
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/53/src/Cuda/Serpent.cuh
+END
+Core.cu
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/55/src/Cuda/Core.cu
+END
+Crypto.cuh
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/55/src/Cuda/Crypto.cuh
+END
+Aescrypt.cu
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/53/src/Cuda/Aescrypt.cu
+END
+Twofish.cuh
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/53/src/Cuda/Twofish.cuh
+END
+Pkcs5.cuh
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/53/src/Cuda/Pkcs5.cuh
+END
+Sha2.cu
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/53/src/Cuda/Sha2.cu
+END
+Rmd160.alternative.cuh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/53/src/Cuda/Rmd160.alternative.cuh
+END
+Aestab.cu
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/53/src/Cuda/Aestab.cu
+END
+Core.cuh
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/53/src/Cuda/Core.cuh
+END
+Volumes.cuh
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/53/src/Cuda/Volumes.cuh
+END
+Sha2.cuh
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/53/src/Cuda/Sha2.cuh
+END
+Aes.cu
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/53/src/Cuda/Aes.cu
+END

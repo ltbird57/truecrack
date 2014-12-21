@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 16
+/svn/!svn/ver/60
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/55/configure
+END
+truecrack.1
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/59/truecrack.1
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/56/Makefile.in
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 24
+/svn/!svn/ver/53/AUTHORS
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/svn/!svn/ver/1/ChangeLog
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/35/config.guess
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/35/config.sub
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 23
+/svn/!svn/ver/59/README
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/35/config.h.in
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/53/configure.ac
+END
+cudalt.py
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/svn/!svn/ver/1/cudalt.py
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 24
+/svn/!svn/ver/35/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 23
+/svn/!svn/ver/1/COPYING
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 23
+/svn/!svn/ver/1/missing
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/56/Makefile.am
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/1/autogen.sh
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 20
+/svn/!svn/ver/1/NEWS
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/55/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/35/install-sh
+END

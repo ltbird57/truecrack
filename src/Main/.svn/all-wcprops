@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/svn/!svn/ver/57/src/Main
+END
+Charset.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/45/src/Main/Charset.h
+END
+Utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/53/src/Main/Utils.c
+END
+Main.c
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/56/src/Main/Main.c
+END
+Utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/53/src/Main/Utils.h
+END
+Core.c
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/53/src/Main/Core.c
+END
+Charset.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/45/src/Main/Charset.c
+END
+Core.h
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/57/src/Main/Core.h
+END
