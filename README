@@ -47,8 +47,11 @@ cd truecrack
 ./configure
 make
 sudo make install
- 
-6. LICENSE
+
+6. HOW TO COMPILE AND INSTALL IN UBUNTU 14.04 LTS 64-bit?
+https://mark911.wordpress.com/2015/02/21/how-to-compile-and-install-both-cuda-6-5-and-truecrack-3-5-in-ubuntu-14-04-lts-64-bit-using-a-bash-script/
+
+7. LICENSE
 TrueCrack is an Open Source Software under GNU Public License version 3.
 This software is Based on TrueCrypt, freely available at http://www.truecrypt.org/
 Contact the author:  Luca Vaccaro <luck87@gmail.com>
